@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<KeePassFile>
+	<Meta>
+		<Generator>KeePass</Generator>
+		<DatabaseName></DatabaseName>
+		<DatabaseNameChanged>2014-07-09T05:08:50Z</DatabaseNameChanged>
+		<DatabaseDescription></DatabaseDescription>
+		<DatabaseDescriptionChanged>2014-07-09T05:08:50Z</DatabaseDescriptionChanged>
+		<DefaultUserName></DefaultUserName>
+		<DefaultUserNameChanged>2014-07-09T05:08:50Z</DefaultUserNameChanged>
+		<MaintenanceHistoryDays>365</MaintenanceHistoryDays>
+		<Color></Color>
+		<MasterKeyChanged>2014-07-09T05:08:50Z</MasterKeyChanged>
+		<MasterKeyChangeRec>-1</MasterKeyChangeRec>
+		<MasterKeyChangeForce>-1</MasterKeyChangeForce>
+		<MemoryProtection>
+			<ProtectTitle>False</ProtectTitle>
+			<ProtectUserName>False</ProtectUserName>
+			<ProtectPassword>True</ProtectPassword>
+			<ProtectURL>False</ProtectURL>
+			<ProtectNotes>False</ProtectNotes>
+		</MemoryProtection>
+		<CustomIcons>
+			<Icon>
+				<UUID>dCbNBbfgTUm3T8dkGFeyuA==</UUID>
+				<Data>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</Data>
+			</Icon>
+		</CustomIcons>
+		<RecycleBinEnabled>True</RecycleBinEnabled>
+		<RecycleBinUUID>JH9CF+pXR0KYK1ZVjvoB3w==</RecycleBinUUID>
+		<RecycleBinChanged>2014-07-09T05:08:50Z</RecycleBinChanged>
+		<EntryTemplatesGroup>AAAAAAAAAAAAAAAAAAAAAA==</EntryTemplatesGroup>
+		<EntryTemplatesGroupChanged>2014-07-09T05:08:50Z</EntryTemplatesGroupChanged>
+		<HistoryMaxItems>10</HistoryMaxItems>
+		<HistoryMaxSize>6291456</HistoryMaxSize>
+		<LastSelectedGroup>AAAAAAAAAAAAAAAAAAAAAA==</LastSelectedGroup>
+		<LastTopVisibleGroup>ynD/NJVHaUmbt4vzXTEN6g==</LastTopVisibleGroup>
+		<Binaries />
+		<CustomData />
+	</Meta>
+	<Root>
+		<Group>
+			<UUID>a6vuP7jWYEqxLL32UiO7bg==</UUID>
+			<Name></Name>
+			<Notes></Notes>
+			<IconID>48</IconID>
+			<Times>
+				<CreationTime>2024-04-23T14:18:51Z</CreationTime>
+				<LastModificationTime>2024-04-23T14:18:51Z</LastModificationTime>
+				<LastAccessTime>2024-04-23T14:18:51Z</LastAccessTime>
+				<ExpiryTime>2024-04-23T14:16:26Z</ExpiryTime>
+				<Expires>False</Expires>
+				<UsageCount>0</UsageCount>
+				<LocationChanged>2024-04-23T14:18:51Z</LocationChanged>
+			</Times>
+			<IsExpanded>True</IsExpanded>
+			<DefaultAutoTypeSequence></DefaultAutoTypeSequence>
+			<EnableAutoType>null</EnableAutoType>
+			<EnableSearching>null</EnableSearching>
+			<LastTopVisibleEntry>AAAAAAAAAAAAAAAAAAAAAA==</LastTopVisibleEntry>
+			<Entry>
+				<UUID>ZjlAVsDCbU2y9kJZFaH4AQ==</UUID>
+				<IconID>53</IconID>
+				<ForegroundColor></ForegroundColor>
+				<BackgroundColor></BackgroundColor>
+				<OverrideURL></OverrideURL>
+				<Tags></Tags>
+				<Times>
+					<CreationTime>2020-04-15T05:28:55Z</CreationTime>
+					<LastModificationTime>2023-06-11T23:50:44Z</LastModificationTime>
+					<LastAccessTime>2023-11-30T18:47:18Z</LastAccessTime>
+					<ExpiryTime>2020-04-15T05:25:56Z</ExpiryTime>
+					<Expires>False</Expires>
+					<UsageCount>55</UsageCount>
+					<LocationChanged>2020-12-17T12:31:12Z</LocationChanged>
+				</Times>
+				<String>
+					<Key>bncollege.com (book buy)</Key>
+					<Value>uCKEN-cuMMBook-D#go1L</Value>
+				</String>
+				<String>
+					<Key>Email</Key>
+					<Value>siken.dongol@gmail.com</Value>
+				</String>
+				<String>
+					<Key>EmailID</Key>
+					<Value>sdongol44980@ucumberlands.edu</Value>
+				</String>
+				<String>
+					<Key>EmailPwd</Key>
+					<Value>cAT7m79#
+
+bcT9r68!</Value>
+				</String>
+				<String>
+					<Key>Notes</Key>
+					<Value>Siken
+Dongol
+https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc
+</Value>
+				</String>
+				<String>
+					<Key>Password</Key>
+					<Value ProtectInMemory="True">C0R0N@(2020)_CLU</Value>
+				</String>
+				<String>
+					<Key>Q1) nickname of your grandfather</Key>
+					<Value>tukubaje</Value>
+				</String>
+				<String>
+					<Key>Q2) What was the name of your first pet?</Key>
+					<Value>serucha</Value>
+				</String>
+				<String>
+					<Key>Q3) first name of the best man at your wedding?</Key>
+					<Value>none</Value>
+				</String>
+				<String>
+					<Key>StudID</Key>
+					<Value>003044980</Value>
+				</String>
+				<String>
+					<Key>Title</Key>
+					<Value>Univ of CumberLands</Value>
+				</String>
+				<String>
+					<Key>URL</Key>
+					<Value>https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc</Value>
+				</String>
+				<String>
+					<Key>UserName</Key>
+					<Value>sikenman</Value>
+				</String>
+				<AutoType>
+					<Enabled>True</Enabled>
+					<DataTransferObfuscation>0</DataTransferObfuscation>
+				</AutoType>
+				<History>
+					<Entry>
+						<UUID>ZjlAVsDCbU2y9kJZFaH4AQ==</UUID>
+						<IconID>53</IconID>
+						<ForegroundColor></ForegroundColor>
+						<BackgroundColor></BackgroundColor>
+						<OverrideURL></OverrideURL>
+						<Tags></Tags>
+						<Times>
+							<CreationTime>2020-04-15T05:28:55Z</CreationTime>
+							<LastModificationTime>2020-04-15T05:29:59Z</LastModificationTime>
+							<LastAccessTime>2020-04-28T03:32:55Z</LastAccessTime>
+							<ExpiryTime>2020-04-15T05:25:56Z</ExpiryTime>
+							<Expires>False</Expires>
+							<UsageCount>2</UsageCount>
+							<LocationChanged>2020-04-15T05:28:55Z</LocationChanged>
+						</Times>
+						<String>
+							<Key>Email</Key>
+							<Value>siken.dongol@gmail.com</Value>
+						</String>
+						<String>
+							<Key>Notes</Key>
+							<Value>Siken
+Dongol</Value>
+						</String>
+						<String>
+							<Key>Password</Key>
+							<Value ProtectInMemory="True">C0R0N@(2020)_CLU</Value>
+						</String>
+						<String>
+							<Key>Title</Key>
+							<Value>Univ of CumberLands</Value>
+						</String>
+						<String>
+							<Key>URL</Key>
+							<Value>https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc</Value>
+						</String>
+						<String>
+							<Key>UserName</Key>
+							<Value>sikenman</Value>
+						</String>
+						<AutoType>
+							<Enabled>True</Enabled>
+							<DataTransferObfuscation>0</DataTransferObfuscation>
+						</AutoType>
+					</Entry>
+					<Entry>
+						<UUID>ZjlAVsDCbU2y9kJZFaH4AQ==</UUID>
+						<IconID>53</IconID>
+						<ForegroundColor></ForegroundColor>
+						<BackgroundColor></BackgroundColor>
+						<OverrideURL></OverrideURL>
+						<Tags></Tags>
+						<Times>
+							<CreationTime>2020-04-15T05:28:55Z</CreationTime>
+							<LastModificationTime>2020-04-28T04:00:16Z</LastModificationTime>
+							<LastAccessTime>2020-07-20T18:20:23Z</LastAccessTime>
+							<ExpiryTime>2020-04-15T05:25:56Z</ExpiryTime>
+							<Expires>False</Expires>
+							<UsageCount>9</UsageCount>
+							<LocationChanged>2020-04-15T05:28:55Z</LocationChanged>
+						</Times>
+						<String>
+							<Key>Email</Key>
+							<Value>siken.dongol@gmail.com</Value>
+						</String>
+						<String>
+							<Key>Notes</Key>
+							<Value>Siken
+Dongol
+https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc
+</Value>
+						</String>
+						<String>
+							<Key>Password</Key>
+							<Value ProtectInMemory="True">C0R0N@(2020)_CLU</Value>
+						</String>
+						<String>
+							<Key>Title</Key>
+							<Value>Univ of CumberLands</Value>
+						</String>
+						<String>
+							<Key>URL</Key>
+							<Value>https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc</Value>
+						</String>
+						<String>
+							<Key>UserName</Key>
+							<Value>sikenman</Value>
+						</String>
+						<AutoType>
+							<Enabled>True</Enabled>
+							<DataTransferObfuscation>0</DataTransferObfuscation>
+						</AutoType>
+					</Entry>
+					<Entry>
+						<UUID>ZjlAVsDCbU2y9kJZFaH4AQ==</UUID>
+						<IconID>53</IconID>
+						<ForegroundColor></ForegroundColor>
+						<BackgroundColor></BackgroundColor>
+						<OverrideURL></OverrideURL>
+						<Tags></Tags>
+						<Times>
+							<CreationTime>2020-04-15T05:28:55Z</CreationTime>
+							<LastModificationTime>2020-07-20T18:53:18Z</LastModificationTime>
+							<LastAccessTime>2020-07-20T18:53:18Z</LastAccessTime>
+							<ExpiryTime>2020-04-15T05:25:56Z</ExpiryTime>
+							<Expires>False</Expires>
+							<UsageCount>10</UsageCount>
+							<LocationChanged>2020-04-15T05:28:55Z</LocationChanged>
+						</Times>
+						<String>
+							<Key>Email</Key>
+							<Value>siken.dongol@gmail.com</Value>
+						</String>
+						<String>
+							<Key>EmailID</Key>
+							<Value>sdongol44980@ucumberlands.edu</Value>
+						</String>
+						<String>
+							<Key>Notes</Key>
+							<Value>Siken
+Dongol
+https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc
+</Value>
+						</String>
+						<String>
+							<Key>Password</Key>
+							<Value ProtectInMemory="True">C0R0N@(2020)_CLU</Value>
+						</String>
+						<String>
+							<Key>StudID</Key>
+							<Value>003044980</Value>
+						</String>
+						<String>
+							<Key>Title</Key>
+							<Value>Univ of CumberLands</Value>
+						</String>
+						<String>
+							<Key>URL</Key>
+							<Value>https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc</Value>
+						</String>
+						<String>
+							<Key>UserName</Key>
+							<Value>sikenman</Value>
+						</String>
+						<AutoType>
+							<Enabled>True</Enabled>
+							<DataTransferObfuscation>0</DataTransferObfuscation>
+						</AutoType>
+					</Entry>
+					<Entry>
+						<UUID>ZjlAVsDCbU2y9kJZFaH4AQ==</UUID>
+						<IconID>53</IconID>
+						<ForegroundColor></ForegroundColor>
+						<BackgroundColor></BackgroundColor>
+						<OverrideURL></OverrideURL>
+						<Tags></Tags>
+						<Times>
+							<CreationTime>2020-04-15T05:28:55Z</CreationTime>
+							<LastModificationTime>2020-07-20T18:53:38Z</LastModificationTime>
+							<LastAccessTime>2021-05-23T23:10:09Z</LastAccessTime>
+							<ExpiryTime>2020-04-15T05:25:56Z</ExpiryTime>
+							<Expires>False</Expires>
+							<UsageCount>37</UsageCount>
+							<LocationChanged>2020-12-17T12:31:12Z</LocationChanged>
+						</Times>
+						<String>
+							<Key>Email</Key>
+							<Value>siken.dongol@gmail.com</Value>
+						</String>
+						<String>
+							<Key>EmailID</Key>
+							<Value>sdongol44980@ucumberlands.edu</Value>
+						</String>
+						<String>
+							<Key>EmailPwd</Key>
+							<Value>bcT9r68!</Value>
+						</String>
+						<String>
+							<Key>Notes</Key>
+							<Value>Siken
+Dongol
+https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc
+</Value>
+						</String>
+						<String>
+							<Key>Password</Key>
+							<Value ProtectInMemory="True">C0R0N@(2020)_CLU</Value>
+						</String>
+						<String>
+							<Key>StudID</Key>
+							<Value>003044980</Value>
+						</String>
+						<String>
+							<Key>Title</Key>
+							<Value>Univ of CumberLands</Value>
+						</String>
+						<String>
+							<Key>URL</Key>
+							<Value>https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc</Value>
+						</String>
+						<String>
+							<Key>UserName</Key>
+							<Value>sikenman</Value>
+						</String>
+						<AutoType>
+							<Enabled>True</Enabled>
+							<DataTransferObfuscation>0</DataTransferObfuscation>
+						</AutoType>
+					</Entry>
+					<Entry>
+						<UUID>ZjlAVsDCbU2y9kJZFaH4AQ==</UUID>
+						<IconID>53</IconID>
+						<ForegroundColor></ForegroundColor>
+						<BackgroundColor></BackgroundColor>
+						<OverrideURL></OverrideURL>
+						<Tags></Tags>
+						<Times>
+							<CreationTime>2020-04-15T05:28:55Z</CreationTime>
+							<LastModificationTime>2021-05-23T23:18:31Z</LastModificationTime>
+							<LastAccessTime>2021-10-29T01:47:00Z</LastAccessTime>
+							<ExpiryTime>2020-04-15T05:25:56Z</ExpiryTime>
+							<Expires>False</Expires>
+							<UsageCount>39</UsageCount>
+							<LocationChanged>2020-12-17T12:31:12Z</LocationChanged>
+						</Times>
+						<String>
+							<Key>bncollege.com (book buy)</Key>
+							<Value>uCKEN-cuMMBook-D#go1L</Value>
+						</String>
+						<String>
+							<Key>Email</Key>
+							<Value>siken.dongol@gmail.com</Value>
+						</String>
+						<String>
+							<Key>EmailID</Key>
+							<Value>sdongol44980@ucumberlands.edu</Value>
+						</String>
+						<String>
+							<Key>EmailPwd</Key>
+							<Value>bcT9r68!</Value>
+						</String>
+						<String>
+							<Key>Notes</Key>
+							<Value>Siken
+Dongol
+https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc
+</Value>
+						</String>
+						<String>
+							<Key>Password</Key>
+							<Value ProtectInMemory="True">C0R0N@(2020)_CLU</Value>
+						</String>
+						<String>
+							<Key>StudID</Key>
+							<Value>003044980</Value>
+						</String>
+						<String>
+							<Key>Title</Key>
+							<Value>Univ of CumberLands</Value>
+						</String>
+						<String>
+							<Key>URL</Key>
+							<Value>https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc</Value>
+						</String>
+						<String>
+							<Key>UserName</Key>
+							<Value>sikenman</Value>
+						</String>
+						<AutoType>
+							<Enabled>True</Enabled>
+							<DataTransferObfuscation>0</DataTransferObfuscation>
+						</AutoType>
+					</Entry>
+					<Entry>
+						<UUID>ZjlAVsDCbU2y9kJZFaH4AQ==</UUID>
+						<IconID>53</IconID>
+						<ForegroundColor></ForegroundColor>
+						<BackgroundColor></BackgroundColor>
+						<OverrideURL></OverrideURL>
+						<Tags></Tags>
+						<Times>
+							<CreationTime>2020-04-15T05:28:55Z</CreationTime>
+							<LastModificationTime>2021-10-29T01:49:04Z</LastModificationTime>
+							<LastAccessTime>2023-06-11T23:49:04Z</LastAccessTime>
+							<ExpiryTime>2020-04-15T05:25:56Z</ExpiryTime>
+							<Expires>False</Expires>
+							<UsageCount>49</UsageCount>
+							<LocationChanged>2020-12-17T12:31:12Z</LocationChanged>
+						</Times>
+						<String>
+							<Key>bncollege.com (book buy)</Key>
+							<Value>uCKEN-cuMMBook-D#go1L</Value>
+						</String>
+						<String>
+							<Key>Email</Key>
+							<Value>siken.dongol@gmail.com</Value>
+						</String>
+						<String>
+							<Key>EmailID</Key>
+							<Value>sdongol44980@ucumberlands.edu</Value>
+						</String>
+						<String>
+							<Key>EmailPwd</Key>
+							<Value>bcT9r68!</Value>
+						</String>
+						<String>
+							<Key>Notes</Key>
+							<Value>Siken
+Dongol
+https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc
+</Value>
+						</String>
+						<String>
+							<Key>Password</Key>
+							<Value ProtectInMemory="True">C0R0N@(2020)_CLU</Value>
+						</String>
+						<String>
+							<Key>Q1) nickname of your grandfather</Key>
+							<Value>tukubaje</Value>
+						</String>
+						<String>
+							<Key>Q2) What was the name of your first pet?</Key>
+							<Value>serucha</Value>
+						</String>
+						<String>
+							<Key>Q3) first name of the best man at your wedding?</Key>
+							<Value>none</Value>
+						</String>
+						<String>
+							<Key>StudID</Key>
+							<Value>003044980</Value>
+						</String>
+						<String>
+							<Key>Title</Key>
+							<Value>Univ of CumberLands</Value>
+						</String>
+						<String>
+							<Key>URL</Key>
+							<Value>https://ucumberlands.radiusbycampusmgmt.com/ssc/zx670mA867020x6702fM03F.ssc</Value>
+						</String>
+						<String>
+							<Key>UserName</Key>
+							<Value>sikenman</Value>
+						</String>
+						<AutoType>
+							<Enabled>True</Enabled>
+							<DataTransferObfuscation>0</DataTransferObfuscation>
+						</AutoType>
+					</Entry>
+				</History>
+			</Entry>
+			<Entry>
+				<UUID>tbFDwUjKkke3GicUUPPkwA==</UUID>
+				<IconID>58</IconID>
+				<ForegroundColor></ForegroundColor>
+				<BackgroundColor></BackgroundColor>
+				<OverrideURL></OverrideURL>
+				<Tags></Tags>
+				<Times>
+					<CreationTime>2021-04-02T14:33:36Z</CreationTime>
+					<LastModificationTime>2021-04-02T14:34:32Z</LastModificationTime>
+					<LastAccessTime>2024-01-22T02:51:03Z</LastAccessTime>
+					<ExpiryTime>2021-04-02T14:26:17Z</ExpiryTime>
+					<Expires>False</Expires>
+					<UsageCount>4</UsageCount>
+					<LocationChanged>2021-04-02T14:33:36Z</LocationChanged>
+				</Times>
+				<String>
+					<Key>DOC</Key>
+					<Value>April 02, 2021</Value>
+				</String>
+				<String>
+					<Key>Notes</Key>
+					<Value></Value>
+				</String>
+				<String>
+					<Key>Password</Key>
+					<Value ProtectInMemory="True">edu(Cken)-Doc-(Dong0L)</Value>
+				</String>
+				<String>
+					<Key>Title</Key>
+					<Value>UC myEduDocs</Value>
+				</String>
+				<String>
+					<Key>URL</Key>
+					<Value>https://ucumberlands.myedudocs.com/</Value>
+				</String>
+				<String>
+					<Key>UserName</Key>
+					<Value>sdongol44980@ucumberlands.edu</Value>
+				</String>
+				<AutoType>
+					<Enabled>True</Enabled>
+					<DataTransferObfuscation>0</DataTransferObfuscation>
+				</AutoType>
+				<History />
+			</Entry>
+			<Entry>
+				<UUID>zbJCnsy4PUKKMArUrIfySA==</UUID>
+				<IconID>58</IconID>
+				<ForegroundColor></ForegroundColor>
+				<BackgroundColor></BackgroundColor>
+				<OverrideURL></OverrideURL>
+				<Tags></Tags>
+				<Times>
+					<CreationTime>2022-10-28T21:35:09Z</CreationTime>
+					<LastModificationTime>2022-10-28T21:37:08Z</LastModificationTime>
+					<LastAccessTime>2024-04-23T14:18:26Z</LastAccessTime>
+					<ExpiryTime>2022-10-28T17:06:29Z</ExpiryTime>
+					<Expires>False</Expires>
+					<UsageCount>3</UsageCount>
+					<LocationChanged>2022-10-28T21:35:09Z</LocationChanged>
+				</Times>
+				<String>
+					<Key>Maharishi Transcript Email</Key>
+					<Value>transcripts@miu.edu</Value>
+				</String>
+				<String>
+					<Key>Notes</Key>
+					<Value>OFFICIAL TRANSCRIPTS: Applicants are only permitted to upload unofficial (copy) transcripts here. Official transcripts must be sent by the issuing institution to University of the Cumberlands' Department of International Graduate Services at the physical or email address below.
+
+University of the Cumberlands
+Department of International Graduate Services
+649 S. 10th Street, Suite B
+Williamsburg, KY 40769
+digs@ucumberlands.edu</Value>
+				</String>
+				<String>
+					<Key>Password</Key>
+					<Value ProtectInMemory="True">ja1(KarunaM@ya)</Value>
+				</String>
+				<String>
+					<Key>Title</Key>
+					<Value>Univ of Cumberlands Apply</Value>
+				</String>
+				<String>
+					<Key>URL</Key>
+					<Value>https://apply.ucumberlands.edu/apply/status</Value>
+				</String>
+				<String>
+					<Key>UserName</Key>
+					<Value>siken.dongol@gmail.com</Value>
+				</String>
+				<AutoType>
+					<Enabled>True</Enabled>
+					<DataTransferObfuscation>0</DataTransferObfuscation>
+				</AutoType>
+				<History>
+					<Entry>
+						<UUID>zbJCnsy4PUKKMArUrIfySA==</UUID>
+						<IconID>58</IconID>
+						<ForegroundColor></ForegroundColor>
+						<BackgroundColor></BackgroundColor>
+						<OverrideURL></OverrideURL>
+						<Tags></Tags>
+						<Times>
+							<CreationTime>2022-10-28T21:35:09Z</CreationTime>
+							<LastModificationTime>2022-10-28T21:36:07Z</LastModificationTime>
+							<LastAccessTime>2022-10-28T21:36:07Z</LastAccessTime>
+							<ExpiryTime>2022-10-28T17:06:29Z</ExpiryTime>
+							<Expires>False</Expires>
+							<UsageCount>1</UsageCount>
+							<LocationChanged>2022-10-28T21:35:09Z</LocationChanged>
+						</Times>
+						<String>
+							<Key>Notes</Key>
+							<Value>OFFICIAL TRANSCRIPTS: Applicants are only permitted to upload unofficial (copy) transcripts here. Official transcripts must be sent by the issuing institution to University of the Cumberlands' Department of International Graduate Services at the physical or email address below.
+
+University of the Cumberlands
+Department of International Graduate Services
+649 S. 10th Street, Suite B
+Williamsburg, KY 40769
+digs@ucumberlands.edu</Value>
+						</String>
+						<String>
+							<Key>Password</Key>
+							<Value ProtectInMemory="True">ja1(KarunaM@ya)</Value>
+						</String>
+						<String>
+							<Key>Title</Key>
+							<Value>Univ of Cumberlands Apply</Value>
+						</String>
+						<String>
+							<Key>URL</Key>
+							<Value>https://apply.ucumberlands.edu/apply/status</Value>
+						</String>
+						<String>
+							<Key>UserName</Key>
+							<Value>siken.dongol@gmail.com</Value>
+						</String>
+						<AutoType>
+							<Enabled>True</Enabled>
+							<DataTransferObfuscation>0</DataTransferObfuscation>
+						</AutoType>
+					</Entry>
+				</History>
+			</Entry>
+		</Group>
+		<DeletedObjects />
+	</Root>
+</KeePassFile>
